@@ -3,7 +3,7 @@ This is the place where I opensource stuff and break things :
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning NodeJS, Algorithm and Data Structure
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript or Angular/ElectronJS/Express
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript or Angular/ElectronJS/Express/Ionic
 - 📫 &nbsp;How to reach me: [@tilakghetiya](https://twitter.com/tilakghetiya) or Email: developer.tilak@gmail.com
 - 👨‍💻 &nbsp;Read more about me at (https://www.tilakghetiya.github.io)
 - ⚡ &nbsp;Fun fact: I love photography and travelling.
