@@ -61,6 +61,6 @@ I am a Full Stack Developer with 3.5+ years of experience in developing enterpri
 
 </details>
 
-💬 Ask me anything [@here]([https://twitter.com/tilakghetiya](https://github.com/TilakGhetiya/README.md/issues)), happy to help you!
+💬 Ask me anything [@here](https://github.com/TilakGhetiya/README.md/issues), happy to help you!
 
   
